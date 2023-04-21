@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hint_name">Escriba su nombre!</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+
+
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="LanguagesProgramacion">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>Java Script</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
